@@ -2,10 +2,10 @@
 title: Social Philharmonic
 email: campbell@vertesi.com
 description: > # this means to ignore newlines until "baseurl:"
-  Helping classical music organizations and artists engage with and discover new audiences
+  Helping classical music organizations and artists engage with and discover new audiences 
   in the age of social media.
-baseurl: "socialphilharmonic" # the subpath of your site, e.g. /blog/
-url: "http://ohthehugemanatee.github.io/" # the base hostname & protocol for your site
+baseurl: "/socialphilharmonic" # the subpath of your site, e.g. /blog/
+url: "http://ohthehugemanatee.github.io" # the base hostname & protocol for your site
 twitter_username: socialphil
 github_username:  ohthehugemanatee
 
